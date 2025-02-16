@@ -8,12 +8,9 @@ import java.util.Scanner;
 import com.sun.speech.freetts.Voice;
 import com.sun.speech.freetts.VoiceManager;
 
-/**
- * This class is made for taking input from the user
- * @author sharwan jung kuwnar
- * @see <a href="https://www.youtube.com/watch?v=u7hFzG1n4mg&list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q&index=106" target="_blank">JavaDocs</a>
- *
- */
+//Author: Sharwan jung kunwar
+//Purpose: Project 01 library management system
+
 class InputMethod{
     Scanner sc;
 
